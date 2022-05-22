@@ -198,6 +198,10 @@ math.h
 vector
 -
 
+/home/workspace/nd013-c5-planning-starter/project/starter_files/motion_planner.cpp
+motion_planner.h
+/home/workspace/nd013-c5-planning-starter/project/starter_files/motion_planner.h
+
 /home/workspace/nd013-c5-planning-starter/project/starter_files/motion_planner.h
 math.h
 -
@@ -255,18 +259,6 @@ carla/client/Client.h
 -
 structs.h
 /home/workspace/nd013-c5-planning-starter/project/starter_files/structs.h
-
-/home/workspace/nd013-c5-planning-starter/project/starter_files/velocity_profile_generator.cpp
-velocity_profile_generator.h
-/home/workspace/nd013-c5-planning-starter/project/starter_files/velocity_profile_generator.h
-cfloat
--
-cmath
--
-cstdlib
--
-thread
--
 
 /home/workspace/nd013-c5-planning-starter/project/starter_files/velocity_profile_generator.h
 vector
