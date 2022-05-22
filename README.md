@@ -20,8 +20,8 @@ Following are important files which required changes to complet the project
 6. [behavior_planner_FSM.cpp](project/starter_files/behavior_planner_FSM.cpp)
 
 # Observations
-After making changes in the all the required files, run the simulation as mentioned in the [how_to_run.txt](project/how_to_run.txt)
-Watch complete video at [![assets/Motion Planning and Decision Making for Autonomous Vehicles](Motion Planning and Decision Making.png)](https://www.youtube.com/watch?v=ETuu8p8eXIg)
+After making changes in the all the required files, run the simulation as mentioned in the [how_to_run.txt](project/how_to_run.txt).
+Watch complete video at [![Motion Planning and Decision Making](assets/Motion_Planning_and_Decision_Making.png)](http://www.youtube.com/watch?v=ETuu8p8eXIg "Motion Planning and Decision Making")
 
 ## Car drives in target lane
 ![](assets/Motion_Planning_and_Decision_Making.png)
