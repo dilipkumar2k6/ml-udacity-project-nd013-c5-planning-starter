@@ -24,15 +24,19 @@ After making changes in the all the required files, run the simulation as mentio
 Watch complete video at [![assets/Motion Planning and Decision Making for Autonomous Vehicles](Motion Planning and Decision Making.png)](https://www.youtube.com/watch?v=ETuu8p8eXIg)
 
 ## Car drives in target lane
-[](assets/Motion Planning and Decision Making for Autonomous Vehicles.png)
+![](assets/Motion_Planning_and_Decision_Making.png)
 ## Change lane for other car parked on right side
-[](assets/Change lane for parked car on right.png)
+![](assets/Change_lane_for_parked_car_on_right.png)
 ## Car come back to target lane
-[](assets/Driving car in the middle lane.png)
+![](assets/Driving%20car%20in%20the%20middle%20lane.png)
 ## Change lane for other car parked on left side
-[](assets/Changed lane for parked car on left.png)
-[](assets/Cross solid line to avoid collision.png)
+![](assets/Changed_lane_for_parked_car_on_left.png)
+![](assets/Cross_solid_line_to_avoid_collision.png)
 ## Car come back to target lane
-[](assets/Driving back to center lange.png)
+![](assets/Driving_back_to_center_lange.png)
+## Car stops
+![](assets/Car_stops.png)
 
+# Conclusion
+Car was able to start journey following the target lane and driving at the center of the lane. Car was able to detect the parked object (other car) on both right and left side and was able to change lane to avoid the collision.
 
