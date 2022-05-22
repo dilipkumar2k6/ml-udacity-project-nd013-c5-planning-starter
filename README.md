@@ -10,6 +10,7 @@ Motion planning and decision making is very curcial for autonomus vehicles. Both
 3. Path and trajectory generation using cubic spirals
 4. Best trajectory selection though a cost function evaluation. This cost function will mainly perform a collision check and a proximity check to bring cost higher as we get closer or collide with objects but maintaining a bias to stay closer to the lane center line.
 
+Please note; https://carla.org/ is used for simulation.
 # Important files
 Following are important files which required changes to complet the project
 1. [behavior_planner_FSM.cpp](project/starter_files/behavior_planner_FSM.cpp)
